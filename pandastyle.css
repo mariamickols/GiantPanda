@@ -1,5 +1,6 @@
 body{
 font-family: Arial;
+line-height: 25px;
 }
 
 img {
@@ -8,5 +9,5 @@ img {
 
 .column{
     width: 600px;
-margin: 40px;
+    margin: 40px auto;
 }
