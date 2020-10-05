@@ -12,11 +12,12 @@ img {
     width: 600px;
     margin: 40px auto;
 
-    border: dotted 20px lightgreen;
+    border: dotted 20px pink;
    padding: 30px;
 }
 
 p{
+    border-radius: 25px;
     border: solid 5px lavender ;
     padding: 5px;
 
