@@ -16,3 +16,8 @@ h1{
     font-size: 60px;
     font-family: Georgia;
 }
+
+h1,h2{
+    text-shadow: 5px 5px 3px rosybrown;
+
+}
